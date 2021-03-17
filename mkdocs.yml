@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Marathon Docs
+nav:
+    - Home: 'index.md'
+    - 'Authentication':
+      - 'Overview' : 'authentication/overview.md'
+      - 'API' : 'api.md'
