@@ -1,4 +1,5 @@
 site_name: Marathon Docs
+theme: lux
 nav:
     - Home: 'index.md'
     - 'Authentication':
