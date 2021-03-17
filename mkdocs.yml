@@ -3,4 +3,4 @@ nav:
     - Home: 'index.md'
     - 'Authentication':
       - 'Overview' : 'authentication/overview.md'
-      - 'API' : 'api.md'
+      - 'API' : 'authentication/api.md'
